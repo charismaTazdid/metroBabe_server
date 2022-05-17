@@ -1,6 +1,9 @@
 {
   "name": "metro-babe",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.14.2"
+    },
   "description": "metro babe is a social meadia application for cool babes",
   "main": "index.js",
   "type": "module",
